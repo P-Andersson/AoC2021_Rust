@@ -1,0 +1,1 @@
+AoC 2021 to learn Rust basics
