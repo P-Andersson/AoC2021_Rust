@@ -1,7 +1,7 @@
 use std::fs;
 
 fn read_input() -> String {
-    let inputs =  fs::read_to_string("input").unwrap()
+    let inputs =  fs::read_to_string("Day1/input").unwrap()
                        .replace("\r", "");
     
     return inputs;
