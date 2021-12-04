@@ -1,0 +1,24 @@
+[package]
+name = "aoc_2021_solutions"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "day1_p1"
+path = "Day1/main.rs"
+
+[[bin]]
+name = "day1_p2"
+path = "Day1/part2.rs"
+
+[[bin]]
+name = "day2_p1"
+path = "Day2/part1.rs"
+
+[[bin]]
+name = "day2_p2"
+path = "Day2/part2.rs"
