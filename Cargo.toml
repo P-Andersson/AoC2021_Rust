@@ -22,3 +22,11 @@ path = "Day2/part1.rs"
 [[bin]]
 name = "day2_p2"
 path = "Day2/part2.rs"
+
+[[bin]]
+name = "day3_p1"
+path = "Day3/part1.rs"
+
+[[bin]]
+name = "day3_p2"
+path = "Day3/part2.rs"
