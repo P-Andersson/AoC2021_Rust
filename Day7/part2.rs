@@ -24,8 +24,6 @@ struct TargetCandidate {
 }
 
 fn main() {
-    let MAX_CYCLES = 8;
-
     let inp = read_input();
     let parsed = parse(inp);
 
