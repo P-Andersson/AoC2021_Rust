@@ -79,7 +79,7 @@ fn render(positions: &HashSet<Position>) {
             if positions.contains(&(x, y)) {
                 print!("#");
             } else {
-                print!(".");
+                print!(" ");
             }
         }
         println!("");
