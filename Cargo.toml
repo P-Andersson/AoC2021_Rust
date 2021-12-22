@@ -159,3 +159,11 @@ path = "Day19/part1.rs"
 [[bin]]
 name = "day19_p2"
 path = "Day19/part2.rs"
+
+[[bin]]
+name = "day20_p1"
+path = "Day20/part1.rs"
+
+[[bin]]
+name = "day20_p2"
+path = "Day20/part2.rs"
